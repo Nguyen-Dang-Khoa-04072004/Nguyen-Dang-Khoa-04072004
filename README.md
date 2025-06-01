@@ -1,4 +1,4 @@
-# Hi, I'm Nguyen Dang Khoa. 👋
+# 👋 Hi, I'm Nguyen Dang Khoa. 
 
 🧑‍🎓 [Computer Science](https://drive.google.com/file/d/1-rZPojbLNQdf1FlgEPo9PJol9YFQsvxz/view) Student at Ho Chi Minh University of Technology 
 
@@ -9,7 +9,7 @@
 ![Khoa's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nguyen-Dang-Khoa-04072004&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
-# Tech Stack
+# 💻 Tech Stack
 ## Programming Languagues
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -36,3 +36,4 @@
 
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NguyenDangKhoa04072004&repo=EngFlash&theme=radical)](https://github.com/NguyenDangKhoa04072004/EngFlash)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nguyen-Dang-Khoa-04072004&repo=PathfindingVisualizer&theme=merko)](https://github.com/Nguyen-Dang-Khoa-04072004/PathfindingVisualizer)
