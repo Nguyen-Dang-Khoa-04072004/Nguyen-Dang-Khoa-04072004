@@ -1,6 +1,6 @@
-<img src="https://t4.ftcdn.net/jpg/07/44/39/67/360_F_744396718_RZ6UK8azeTMXPA5dSYVPrRGVNUmK2FMf.jpg"
-  style="width:100%"
-  />
+<img src="https://t4.ftcdn.net/jpg/07/44/39/67/360_F_744396718_RZ6UK8azeTMXPA5dSYVPrRGVNUmK2FMf.jpg" style="width:100%;"/>
+
+
 # 👋 Hi, I'm Nguyen Dang Khoa. 
 
 🧑‍🎓 [Computer Science](https://drive.google.com/file/d/1-rZPojbLNQdf1FlgEPo9PJol9YFQsvxz/view) Student at Ho Chi Minh University of Technology 
@@ -36,6 +36,13 @@
 ## Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+## Softwares & Tools
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NguyenDangKhoa04072004&repo=EngFlash&theme=radical)](https://github.com/NguyenDangKhoa04072004/EngFlash)
