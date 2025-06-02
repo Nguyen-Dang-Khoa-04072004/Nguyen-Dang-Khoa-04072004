@@ -5,7 +5,7 @@
 
 🧑‍🎓 I am [Computer Science](https://drive.google.com/file/d/1-rZPojbLNQdf1FlgEPo9PJol9YFQsvxz/view) Student at Ho Chi Minh University of Technology 
 
-👩🏻‍💻 I want to become Fullstack Software Engineering and AI engineering
+👩🏻‍💻 I want to become Fullstack Software Engineer and AI Engineer
 
 
 
