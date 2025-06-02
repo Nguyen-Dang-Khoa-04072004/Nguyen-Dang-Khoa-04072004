@@ -1,3 +1,6 @@
+<img src="https://t4.ftcdn.net/jpg/07/44/39/67/360_F_744396718_RZ6UK8azeTMXPA5dSYVPrRGVNUmK2FMf.jpg"
+  style="width:100%"
+  />
 # 👋 Hi, I'm Nguyen Dang Khoa. 
 
 🧑‍🎓 [Computer Science](https://drive.google.com/file/d/1-rZPojbLNQdf1FlgEPo9PJol9YFQsvxz/view) Student at Ho Chi Minh University of Technology 
