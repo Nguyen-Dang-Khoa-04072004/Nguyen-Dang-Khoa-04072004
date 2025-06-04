@@ -44,6 +44,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-## Projects
+# 📁 Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NguyenDangKhoa04072004&repo=EngFlash&theme=radical)](https://github.com/NguyenDangKhoa04072004/EngFlash)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nguyen-Dang-Khoa-04072004&repo=PathfindingVisualizer&theme=merko)](https://github.com/Nguyen-Dang-Khoa-04072004/PathfindingVisualizer)
