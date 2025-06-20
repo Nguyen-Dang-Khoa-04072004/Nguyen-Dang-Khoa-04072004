@@ -48,4 +48,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NguyenDangKhoa04072004&repo=EngFlash&theme=radical)](https://github.com/NguyenDangKhoa04072004/EngFlash)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nguyen-Dang-Khoa-04072004&repo=PathfindingVisualizer&theme=merko)](https://github.com/Nguyen-Dang-Khoa-04072004/PathfindingVisualizer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tuan8p&repo=BOOK-STORE-WEB-&theme=gruvbox)](https://github.com/tuan8p/BOOK-STORE-WEB-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nguyen-Dang-Khoa-04072004&repo=Pomodoro-Timer&theme=tokyonight)](https://github.com/Nguyen-Dang-Khoa-04072004/Pomodoro-Timer.git)
+
 
