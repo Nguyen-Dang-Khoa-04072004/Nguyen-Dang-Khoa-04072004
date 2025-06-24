@@ -5,7 +5,11 @@
 
 🧑‍🎓 I am [Computer Science](https://drive.google.com/file/d/1-rZPojbLNQdf1FlgEPo9PJol9YFQsvxz/view) Student at Ho Chi Minh University of Technology 
 
-👩🏻‍💻 My goal is to become Fullstack Software Engineer and AI Engineer
+👩🏻‍💻 My goal is to become [Fullstack Software Engineer](https://roadmap.sh/full-stack) and [AI Engineer](https://roadmap.sh/ai-engineer)
+
+🖼️ Software development with scrum [certificate](https://verified.sertifier.com/en/verify/85223629648828)
+
+🖥️ Java intern at [FPT Software Nha Trang](https://www.facebook.com/share/p/1Esop7EVfQ/) (09/06/2025)
 
 [![Khoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nguyen-Dang-Khoa-04072004&theme=radical)](https://github.com/Nguyen-Dang-Khoa-04072004)
 
