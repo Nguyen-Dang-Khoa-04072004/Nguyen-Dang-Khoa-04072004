@@ -5,12 +5,9 @@
 
 🧑‍🎓 I am [Computer Science](https://drive.google.com/file/d/1-rZPojbLNQdf1FlgEPo9PJol9YFQsvxz/view) Student at Ho Chi Minh University of Technology 
 
-👩🏻‍💻 I want to become Fullstack Software Engineer and AI Engineer
+👩🏻‍💻 My goal is to become Fullstack Software Engineer and AI Engineer
 
-
-
-![Khoa's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nguyen-Dang-Khoa-04072004&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
+[![Khoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nguyen-Dang-Khoa-04072004&theme=radical)](https://github.com/Nguyen-Dang-Khoa-04072004)
 
 # 💻 Tech Stack
 ## Programming Languagues
