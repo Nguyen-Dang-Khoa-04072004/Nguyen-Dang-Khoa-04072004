@@ -11,7 +11,7 @@
 
 🖥️ Java intern at [FPT Software Nha Trang](https://www.facebook.com/share/p/1Esop7EVfQ/) (09/06/2025)
 
-[![Khoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nguyen-Dang-Khoa-04072004&theme=radical)](https://github.com/Nguyen-Dang-Khoa-04072004)
+[![Khoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nguyen-Dang-Khoa-04072004&theme=radical&show_icons=true)](https://github.com/Nguyen-Dang-Khoa-04072004)
 
 # 💻 Tech Stack
 ## Programming Languagues
