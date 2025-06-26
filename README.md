@@ -52,5 +52,5 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nguyen-Dang-Khoa-04072004&repo=Pomodoro-Timer&theme=tokyonight)](https://github.com/Nguyen-Dang-Khoa-04072004/Pomodoro-Timer.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nguyen-Dang-Khoa-04072004&repo=TaskManagementBE&theme=onedark)](https://github.com/Nguyen-Dang-Khoa-04072004/TaskManagementBE.git)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nguyen-Dang-Khoa-04072004&repo=TaskManagementFE&theme=cobalt)](https://github.com/Nguyen-Dang-Khoa-04072004/TaskManagementFE.git)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nguyen-Dang-Khoa-04072004&repo=Memory-Efficient-Doubly-Linkedlist&theme=synthwave)](https://github.com/Nguyen-Dang-Khoa-04072004/Memory-Efficient-Doubly-Linkedlist)
 
